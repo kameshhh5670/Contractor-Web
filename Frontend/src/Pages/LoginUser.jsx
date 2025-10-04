@@ -41,7 +41,7 @@ const UserLogin = () => {
     <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white p-10">
     <div className="max-w-5xl mx-auto text-center">
       <h1 className="text-4xl font-bold mb-4">Get Your Building Material at the lowest cost</h1>
-      <p className="mb-6">Buy or Sell Buiding Materials at Your Dezire Cost</p>
+      <p className="mb-6">Buy or Sell Buiding Materials at Your Dezire Price</p>
       </div>
       </section>
       <div className='bg-cover bg-center flex items-center justify-center min-h-screen bg-gray-100' style={{ backgroundImage: `url(${BuildingImage})` }}>
