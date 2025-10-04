@@ -1,4 +1,4 @@
-# 🏗️ Builder Hub
+# 🏗️ Contractor Hub
 
 Builder Hub is a full-stack web application that connects **buyers** and **sellers** of building materials. The platform provides user-friendly interfaces for both parties with features like login, signup, JWT-based authorization, and password recovery.
 
